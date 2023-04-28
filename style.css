@@ -20,10 +20,11 @@ body{
 }
 #Sweet1{
     
-    width: 48.3%;
+    width: 45%;
     float: left;
-    padding:3px
-    
+    padding:3px  
 }
-#image
+#image{
+    border: 3px solid  rgb(224, 93, 12);
+}
 
