@@ -1,0 +1,29 @@
+div{
+    border: 3px solid black;
+    text-align: center;
+} 
+
+#MainH{
+   color:white;
+    background-image: url("images/Logo.png");
+    background-repeat: no-repeat; 
+    background-size: contain;
+    background-position: center;
+    border: 3px solid  rgb(224, 93, 12);
+}
+#Main2{
+   text-decoration: underline;
+    border: 3px solid  rgb(224, 93, 12);
+}
+body{
+    background-color: rgb(224, 93, 12);
+}
+#Sweet1{
+    
+    width: 48.3%;
+    float: left;
+    padding:3px
+    
+}
+#image
+
